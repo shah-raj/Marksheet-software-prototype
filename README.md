@@ -6,7 +6,7 @@ A frontend prototype for an internal Marks enterning and displaying system in an
 * Contains two types of accounts available - Faculty and Student
 
 ### Faculty Login
-* For [Faculty login] (http://marksheet.epizy.com/flogin.php) enter any login id and password.
+* For [Faculty login](http://marksheet.epizy.com/flogin.php) enter any login id and password.
 * It contains cards that navigate to different pages.
 
 ### Student Login
